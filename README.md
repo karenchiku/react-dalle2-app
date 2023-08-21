@@ -1,6 +1,6 @@
 ### Summary
 
-This website implemented 
+This website implemented a images generator via upload image from the local file.
 
 ### Technical
 
