@@ -1,6 +1,6 @@
 ### Summary
 
-This website is for genearte images and upload images to OPENAI dalle to generate images.
+This website implemented 
 
 ### Technical
 
